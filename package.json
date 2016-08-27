@@ -14,10 +14,11 @@
     "botframework"
   ],
   "author": "duc.m.trinh",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/dmtrinhWF/DummyBot",
   "dependencies": {
     "botbuilder": "^3.2.3",
+    "https": "^1.0.0",
     "restify": "^4.1.1"
   }
 }
